@@ -21,28 +21,28 @@ while($fcs=<FCS>)
   $no=@arr;
 
 
-  if($no==3) 
+  if($no==2) 
   { 
     $dr=$arr[1];
     $outfile="../Output/$dr/DATA/$dr".".txt"; 
     $imgout="../Output/$dr/PLOTS/$arr[1]"; 
     $txtout="../Output/$dr/DATA/$arr[1]"; 
   }  
-  elsif($no==4) 
+  elsif($no==3) 
   { 
     $dr=$arr[1]."_".$arr[2];
     $outfile="../Output/$dr/DATA/$dr".".txt"; 
     $imgout="../Output/$dr/PLOTS/$arr[1]"; 
     $txtout="../Output/$dr/DATA/$arr[1]"; 
   }  
-  elsif($no==5) 
+  elsif($no==4) 
   { 
     $dr=$arr[1]."_".$arr[2]."_".$arr[3];
     $outfile="../Output/$dr/DATA/$dr".".txt"; 
     $imgout="../Output/$dr/PLOTS/$arr[1]"; 
     $txtout="../Output/$dr/DATA/$arr[1]"; 
   }  
-  elsif($no==6) 
+  elsif($no==5) 
   { 
     $dr=$arr[1]."_".$arr[2]."_".$arr[3]."_".$arr[4];
     $outfile="../Output/$dr/DATA/$dr".".txt"; 

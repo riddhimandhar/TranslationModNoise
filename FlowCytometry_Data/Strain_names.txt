@@ -1,0 +1,10 @@
+GFP mutant variants 
+=======================
+
+M4/NGFPM4 = GAA 5 GAG 
+M5F/NGFPM5F = N-5 
+M6/NGFPM6 = GAA 6 GAC 
+M7/NGFPM7 = GAT 234 GAC 
+M9/NGFPM9 = CTA 236 CTC 
+M11/NGFPM11 = AAA 238 AAG 
+M5R/NGFPM5R = C-5 

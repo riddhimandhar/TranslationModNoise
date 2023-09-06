@@ -5,7 +5,7 @@ burst_kinetics_ML.py - estimates the parameters of bursty mode of trancription i
 
 
 Installation
-Following python libraries should be installed in the system before running burst_kinetics_ML.py in ipython console
+Following python libraries are required for running burst_kinetics_ML.py in ipython console
 
 a) pandas
 b) numpy

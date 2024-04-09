@@ -2,6 +2,8 @@ GFP mutant variants
 =======================
 
 NGFP = WT
+M1/NGFPM1 = TCT 2 TCG
+M3/NGFPM3 = GGA 4 GGT
 M4/NGFPM4 = GAA 5 GAG 
 M5F/NGFPM5F = N-5 
 M6/NGFPM6 = GAA 6 GAC 
